@@ -1,0 +1,8 @@
+Sahra 8 2 6 2 2
+Henning 1 0 1 1 1
+Niklas 0 0 0 0 0
+Anuka 2 0 2 0 0
+Ahmed 0 0 0 0 0
+Bill 1 0 1 0 0
+Lahoud 2 0 2 0 0
+mustaf 7 1 6 1 1
